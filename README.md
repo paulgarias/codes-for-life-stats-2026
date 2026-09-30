@@ -1,3 +1,3 @@
-# codes-for-life-stats-2026
+# Codes for Life Github Intro
 
-Introduction to github by creating a statistics suite
+Introduction to github.com by creating a statistics suite
